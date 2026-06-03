@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "downloadURL": "https://portal.cfx.re/assets/granted-assets",
-  "changelog": "Added version checker * added exports.lua to fxmanifest.lua"
+  "changelog": "Added client side Trigger Events"
 }
